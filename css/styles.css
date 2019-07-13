@@ -1,30 +1,28 @@
-.col-md-12{
+.my-hero{
     height:500px;
+    margin: 20px 0 20px 0;
+    
 }
 
-.col-md-1, .col-md-2, .col-md-6, .col-md-3, .col-md-12 {
+.box, .lonely-box, .nav_btn, .my-brand, .my-hero{
     background-color: bisque;
     border: solid 1px pink;
 }
 
 .box{
     height: 300px;
+    margin-top: 20px;
+    margin-bottom: 10px;
 }
-.col-md-2{
+.lonely-box{
     height: 100px;
-    background-color: bisque;
-    border: solid 1px pink;
 }
 
 .nav_btn{
     height:100px;
-    background-color: bisque;
-    border: solid 1px pink;
     margin-top:100px;
 
 }
 .my-brand{
     height: 200px;
-    background-color: bisque;
-    border: solid 1px pink;
 }
